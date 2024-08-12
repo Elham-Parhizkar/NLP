@@ -43,7 +43,6 @@ find_analogies('miami', 'florida', 'texas')
 find_analogies('einstein', 'scientist', 'painter')
 find_analogies('china', 'rice', 'bread')
 find_analogies('man', 'woman', 'she')
-find_analogies('man', 'woman', 'aunt')
 
 nearest_neighbors('king')
 nearest_neighbors('france')
