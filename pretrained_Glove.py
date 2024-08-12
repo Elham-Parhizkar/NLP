@@ -64,7 +64,7 @@ print('Loading word vectors...')
 word2vec = {}
 embedding = []
 idx2word = []
-with open('C:/Users/elham.parhizkar/OneDrive - Government of Alberta/Desktop/Learning/NLP/Coding_training/glove.6B/glove.6B.50d.txt', encoding='utf-8') as f:
+with open('glove.6B.50d.txt', encoding='utf-8') as f:
   # is just a space-separated text file in the format:
   # word vec[0] vec[1] vec[2] ...
   for line in f:
